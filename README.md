@@ -44,6 +44,6 @@ Special thanks to the following repositories:
 1. https://github.com/huggingface/diffusers/
 
 ### Sample images 
-![Generated Image](image.png)
+![Generated Image](roseflower.png)
 ![Generated Image](boatinmoon.png)
 
